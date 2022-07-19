@@ -10,8 +10,9 @@
 - 🌱 I'm always willing to learn something new everyday!
 
 
- #### 📫 You can find me ar:
+ #### 📫 You can find me at:
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abdlaqeel/)  &nbsp; 
-  <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  <a href="mailto:aaqeel@mun.ca"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ [<img src="https://img.icons8.com/ios-filled/344/domain.png" width="3.5%"/>](https://cs.mun.ca~aaqeel)  &nbsp;
   
