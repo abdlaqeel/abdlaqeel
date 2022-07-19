@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1N126-FURZnMjVUEu1pIJBLBk8cO7VWf0/view?usp=sharing)
+![Banner]https://github.com/abdlaqeel/abdlaqeel/blob/main/Hello!%20I'm%20Abdullah.png)
 
 
 <h1 align="center">Hello World, I'm Abdullah 👋 </h1>
