@@ -17,6 +17,9 @@
   <a href="mailto:aaqeel@mun.ca"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
  
  ### My Stats:
+ 
+ [![Abdullah's Github Stats](https://github-readme-stats.vercel.app/api?username=abdlaqeel)](https://github.com/anuraghazra/github-readme-stats)
+ 
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=abdlaqeel&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=abdlaqeel&theme=dark&hide_border=true" width = 400>
