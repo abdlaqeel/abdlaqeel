@@ -1,4 +1,4 @@
-![Banner](https://github.com/abdlaqeel/abdlaqeel/blob/main/Hello!%20I'm%20Abdullah-2-2.png)
+![Banner](https://github.com/abdlaqeel/abdlaqeel/blob/main/Hello!%20I'm%20Abdullah-2.png)
 
 
 <h1 align="center">Hello World, I'm Abdullah 👋 </h1>
