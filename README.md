@@ -1,5 +1,5 @@
 ![Banner](https://github.com/abdlaqeel/abdlaqeel/blob/main/Hello!%20I'm%20Abdullah-2.png)
-
+<h1 align="center">Hello World, I'm Abdullah 👋 </h1>
 <h3 align="center">I love to see lines of codes come to life</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JmJMzlXOiI0dq/giphy.gif?cid=ecf05e47sukdymzz0yxb8r0phbzp730j5bfljkq0qkzdzx2n&rid=giphy.gif&ct=g">
 
