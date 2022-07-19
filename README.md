@@ -19,7 +19,7 @@
  ### My Stats:
  
  [![Abdullah's Github Stats](https://github-readme-stats.vercel.app/api?username=abdlaqeel)](https://github.com/anuraghazra/github-readme-stats)
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlaqeel&layout=compact&langs_count=8"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlaqeel&layout=compact&langs_count=8"/>
  
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=abdlaqeel&show_icons=true&theme=bear" width = 400>
