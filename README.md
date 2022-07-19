@@ -16,4 +16,8 @@
   [<img src="https://img.icons8.com/ios-filled/344/domain.png" width="3.5%"/>](https://cs.mun.ca/~aaqeel)  &nbsp;
   <a href="mailto:aaqeel@mun.ca"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
  
-  
+ ### My Stats:
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+</p>
