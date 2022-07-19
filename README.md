@@ -10,7 +10,8 @@
 - 🌱 I'm always willing to learn something new everyday!
 
 
-<a align = "center" href="https://github.com/abdlaqeel/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
+ #### 📫 You can find me ar:
+  
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abdlaqeel/)  &nbsp; 
+  <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
