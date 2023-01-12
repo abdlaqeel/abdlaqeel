@@ -8,6 +8,7 @@
 - ⚡️ Fun fact: I'm a huge fan of  <a href="[https://cs.mun.ca/](https://media.giphy.com/media/eax0rh3OERAYg/giphy.gif?cid=ecf05e4723okqwsnydjhf8sxsn1s9s89oqxpr372x7qcvf49&rid=giphy.gif&ct=g)"> **Harry Potter** </a>
 - 📫 Reach out to me at: **aaqeel@mun.ca**
 - 🌱 I'm always willing to learn something new everyday!
+- 👨‍💻 Currently seeking CO-OP and Work Term Opportunitities for Spring 2023.
 
 
  #### 📫 You can find me at:
