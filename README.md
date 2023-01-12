@@ -4,7 +4,7 @@
 
 - 👨‍🏛 I am currently a student of <a href="https://ww.cs.mun.ca/"> **Memorial University of Newfoundland** </a> majoring in **Computer Science.**
 - 🌱 I'm an aspiring **full stack developer** currently learning different front end and back end technologies along with some web development. 
-- ⚙️ Experimenting with: Java, Python, C, Bash, SQL, HTML, CSS, Java Script, Swift, Ruby and more everyday..
+- ⚙️ Experimenting with: Java, Python, C, SQL, HTML, CSS, Java Script, React, NodeJS and more everyday..
 - ⚡️ Fun fact: I'm a huge fan of  <a href="[https://cs.mun.ca/](https://media.giphy.com/media/eax0rh3OERAYg/giphy.gif?cid=ecf05e4723okqwsnydjhf8sxsn1s9s89oqxpr372x7qcvf49&rid=giphy.gif&ct=g)"> **Harry Potter** </a>
 - 📫 Reach out to me at: **aaqeel@mun.ca**
 - 🌱 I'm always willing to learn something new everyday!
